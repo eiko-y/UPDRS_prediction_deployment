@@ -1,0 +1,23 @@
+#test API inputs
+
+{
+  "age": 65.0,
+  "sex": 1.0,
+  "test_time": 2.0,
+  "Jitter_percent": 0.005,
+  "Jitter_Abs": 0.00003,
+  "Jitter_RAP": 0.004,
+  "Jitter_PPQ": 0.005,
+  "Jitter_DDP": 0.008,
+  "Shimmer": 0.03,
+  "Shimmer_dB": 0.27,
+  "Shimmer_APQ3": 0.02,
+  "Shimmer_APQ5": 0.03,
+  "Shimmer_APQ11": 0.05,
+  "Shimmer_DDA": 0.06,
+  "NHR": 0.03,
+  "HNR": 22.0,
+  "RPDE": 0.4,
+  "DFA": 0.65,
+  "PPE": 0.1
+}
