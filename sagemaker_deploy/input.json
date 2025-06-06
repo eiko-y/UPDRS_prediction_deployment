@@ -1,0 +1,21 @@
+{
+  "age": 60,
+  "sex": 1,
+  "test_time": 1,
+  "Jitter_percent": 0.005,
+  "Jitter_Abs": 0.0001,
+  "Jitter_RAP": 0.004,
+  "Jitter_PPQ": 0.003,
+  "Jitter_DDP": 0.007,
+  "Shimmer": 0.02,
+  "Shimmer_dB": 0.2,
+  "Shimmer_APQ3": 0.01,
+  "Shimmer_APQ5": 0.015,
+  "Shimmer_APQ11": 0.025,
+  "Shimmer_DDA": 0.03,
+  "NHR": 0.04,
+  "HNR": 21,
+  "RPDE": 0.56,
+  "DFA": 0.68,
+  "PPE": 0.1
+}
